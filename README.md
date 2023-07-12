@@ -1,1 +1,1 @@
-# ssg-test-2-nuxt
+# proiect_html
